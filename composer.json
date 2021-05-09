@@ -1,0 +1,15 @@
+{
+    "name": "mini-skirt/googlebot-verifier",
+    "type": "library",
+    "version": "1.0.0",
+    "description": "A simple library to verify if a web client / visitor is Googlebot",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MiniSkirt\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8"
+    }
+}
